@@ -1,7 +1,6 @@
 # My First Website
-_Rob Hunter -2019_
-_Collector of Data, Distiller of Knowledge, Curator of Truth, and Protector following my own path_
-_Fueled by: B3 (bacon, bourbon,and b...)_
+_Rob Hunter - 2019_
+_Collector - Builder - Distiller - Breaker - Curator_
 ## robhunter.ninja
 *So many plans, and so little time...*
 * index page
